@@ -1,0 +1,68 @@
+1660728326981	geckodriver	INFO	Listening on 127.0.0.1:53036
+1660728327518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A73379~1\\AppData\\Local\\Temp\\rust_mozprofile95Tx31"
+console.error: Policies.jsm: 
+  Unable to find certificate - DT_Internal_Root_CA_2.cer
+console.error: Policies.jsm: 
+  Unable to find certificate - Deutsche_Telekom_AG_authentication_CA.crt
+console.error: Policies.jsm: 
+  Unable to add security device Telesec
+1660728327992	Marionette	INFO	Marionette enabled
+1660728327997	Marionette	INFO	Listening on port 53045
+WebDriver BiDi listening on ws://localhost:53037
+Read port: 53045
+1660728328251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\A73379~1\\AppData\\Local\\Temp\\rust_mozprofile95Tx31\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53037/devtools/browser/b77ed224-407a-4b3a-8e1f-388fe45ed495
+1660729509972	Marionette	INFO	Stopped listening on port 53045
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16616, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+cal\\Temp\\rust_mozprofileURXnfz"
+console.error: Policies.jsm: 
+  Unable to find certificate - DT_Internal_Root_CA_2.cer
+console.error: Policies.jsm: 
+  Unable to find certificate - Deutsche_Telekom_AG_authentication_CA.crt
+console.error: Policies.jsm: 
+  Unable to add security device Telesec
+1660728330958	Marionette	INFO	Marionette enabled
+1660728330963	Marionette	INFO	Listening on port 53067
+WebDriver BiDi listening on ws://localhost:53057
+Read port: 53067
+1660728331212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\A73379~1\\AppData\\Local\\Temp\\rust_mozprofileURXnfz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53057/devtools/browser/7e901bee-299f-4677-97bc-261f7b97349e
+JavaScript error: http://selenium1py.pythonanywhere.com/es/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1660728364017	Marionette	INFO	Stopped listening on port 53067
+1660729515340	geckodriver	INFO	Listening on 127.0.0.1:65320
+1660729515885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65321" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A73379~1\\AppData\\Local\\Temp\\rust_mozprofileyEXUaz"
+console.error: Policies.jsm: 
+  Unable to find certificate - DT_Internal_Root_CA_2.cer
+console.error: Policies.jsm: 
+  Unable to find certificate - Deutsche_Telekom_AG_authentication_CA.crt
+console.error: Policies.jsm: 
+  Unable to add security device Telesec
+1660729516384	Marionette	INFO	Marionette enabled
+1660729516389	Marionette	INFO	Listening on port 65329
+WebDriver BiDi listening on ws://localhost:65321
+Read port: 65329
+1660729516629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\A73379~1\\AppData\\Local\\Temp\\rust_mozprofileyEXUaz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65321/devtools/browser/06cdfc32-6b11-4589-ae6e-d817fe50b634
+JavaScript error: http://selenium1py.pythonanywhere.com/es/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1660729549763	Marionette	INFO	Stopped listening on port 65329
+1660729620648	geckodriver	INFO	Listening on 127.0.0.1:65475
+1660729621190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65476" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A73379~1\\AppData\\Local\\Temp\\rust_mozprofilevcvfkq"
+console.error: Policies.jsm: 
+  Unable to find certificate - DT_Internal_Root_CA_2.cer
+console.error: Policies.jsm: 
+  Unable to find certificate - Deutsche_Telekom_AG_authentication_CA.crt
+console.error: Policies.jsm: 
+  Unable to add security device Telesec
+1660729621667	Marionette	INFO	Marionette enabled
+1660729621672	Marionette	INFO	Listening on port 65483
+WebDriver BiDi listening on ws://localhost:65476
+Read port: 65483
+1660729621908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\A73379~1\\AppData\\Local\\Temp\\rust_mozprofilevcvfkq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65476/devtools/browser/69925247-ad37-4716-829f-cd24f6bb034c
+JavaScript error: http://selenium1py.pythonanywhere.com/fr/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1660729655477	Marionette	INFO	Stopped listening on port 65483
